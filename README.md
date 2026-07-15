@@ -1,6 +1,7 @@
 # Diy-Solder-Reflow-Plate-PCB
 A Diy Solder Reflow Plate Made Of 2 Components And A PCB
-<img width="1170" height="618" alt="codenamehp" src="https://github.com/user-attachments/assets/1efd96d9-c029-44b2-85ae-f58956e7d6bf" />
+<img width="618" height="618" alt="codenamehp" src="https://github.com/user-attachments/assets/1efd96d9-c029-44b2-85ae-f58956e7d6bf" />
+<img width="800" height="800" alt="codenamehp-ezgif com-optimize" src="https://github.com/user-attachments/assets/2017596a-be66-430a-a9d7-c23b6fddf841" />
 
 # Details
 70mm x 50mm 
